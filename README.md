@@ -2,4 +2,4 @@
 
 First demo repository
 
-hi, im dani, im tryng to learn data base stuff
+hi, im dani, im trying to learn data base stuff
